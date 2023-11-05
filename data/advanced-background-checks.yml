@@ -1,0 +1,14 @@
+advanced-background-checks:
+  names:
+    - Advanced Background Checks
+    - AdvancedBackgroundChecks
+  url: https://www.advancedbackgroundchecks.com/
+  removal-url: https://www.advancedbackgroundchecks.com/removal
+  process: search-then-opt-out
+  required-verification:
+    - email
+  help-links:
+    - https://joindeleteme.com/blog/how-to-remove-yourself-from-advancedbackgroundchecks/
+  status:
+    working: true
+    as-of: 2023-11-04

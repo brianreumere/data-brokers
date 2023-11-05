@@ -1,0 +1,16 @@
+been-verified:
+  names:
+    - BeenVerified
+    - Been Verified
+  url: https://www.beenverified.com/
+  removal-url: https://www.beenverified.com/app/optout/search
+  process: search-for-removal
+  required-verification:
+    - email
+  help-links:
+    - https://joindeleteme.com/blog/how-to-remove-yourself-from-beenverified/
+  status:
+    working: false
+    as-of: 2023-11-04
+  notes:
+    2023-11-04: Confirmation email for opt out never arrives. No alternate process is known to work.
