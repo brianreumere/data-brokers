@@ -3,13 +3,13 @@ background-check-run:
     - Background Check
     - BackgroundCheck.Run
   url: https://backgroundcheck.run/
-  process: search-then-control
+  process: control
   required-verification:
     - email
   help-links:
     - https://joindeleteme.com/blog/how-to-remove-yourself-from-background-check-run/
+  help: |
+    Control form is broken. Advises to email ccpa@backgroundcheck.run instead. Make sure to indicate in email that the opt out form is not working.
   status:
     working: false
     as-of: 2023-11-04
-  notes:
-    2023-11-04: Control form is broken. Advises to email ccpa@backgroundcheck.run instead. Make sure to indicate in email that the opt out form is not working and advised you to email the request.

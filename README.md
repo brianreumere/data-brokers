@@ -32,6 +32,10 @@ some-site:
     2023-10-01: These are some notes about this opt out experience.
 ```
 
+The special `joins.yml` file in the data directory keeps track of relationships between data brokers. The lists of `similar` brokers are distinct sites with their own opt out processes, but there may be some underlying relationship between them (for example, their sites function almost identically, just with different styling).
+
+## Fronts vs. 
+
 ## Services
 
 [DeleteMe](https://joindeleteme.com/) and [Optery](https://www.optery.com/) seem to be solid and trustworthy options (Optery seems to cover more but I don't have any personal experience with it). Optery provides a decent free offering that will at least link you to various data brokers' search results for your name.
@@ -62,4 +66,4 @@ There are various processes that data brokers use to allow you to opt out. For e
 | ------- | ----------- |
 | `search-for-removal` | Use the removal search directly to see if there are results to remove. |
 | `search-then-opt-out` | Search to see if data is available first and then use the opt out URL for removal. |
-| `search-then-control` | Search for a profile that matches your data and then request to "control" it. |
+| `control` | Search for a profile that matches your data and then request to "control" it. |
