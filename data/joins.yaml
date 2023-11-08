@@ -1,11 +1,11 @@
 - type: similar
   entries:
-    - background-check-run
+    - backgroundCheckRun
     - councilon
     - dataveria
     - inforver
-    - new-england-facts
-    - people-background-check
+    - newEnglandFacts
+    - peopleBackgroundCheck
     - pub360
     - radaris
     - verecor
@@ -14,9 +14,9 @@
     - veripages
 - type: fronts
   been-verified:
-    - free-phone-tracer
+    - freePhoneTracer
     - identitypi
-    - neighbor-who
-    - number-guru
-    - official-usa
-    - people-looker
+    - neighborWho
+    - numberGuru
+    - officialUSA
+    - peopleLooker

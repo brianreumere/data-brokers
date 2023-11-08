@@ -1,7 +1,7 @@
-america-phone-book:
+americaPhoneBook:
   names:
     - America Phone Book
     - AmericaPhoneBook.com
   url: https://www.americaphonebook.com/
-  removal-url: https://www.americaphonebook.com/contact.php
+  removalUrl: https://www.americaphonebook.com/contact.php
   process: search-then-opt-out

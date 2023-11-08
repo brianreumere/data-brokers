@@ -1,15 +1,15 @@
-background-check-run:
+backgroundCheckRun:
   names:
     - Background Check
     - BackgroundCheck.Run
   url: https://backgroundcheck.run/
   process: control
-  required-verification:
+  requiredVerification:
     - email
-  help-links:
+  helpLinks:
     - https://joindeleteme.com/blog/how-to-remove-yourself-from-background-check-run/
   help: |
     Control form is broken. Advises to email ccpa@backgroundcheck.run instead. Make sure to indicate in email that the opt out form is not working.
   status:
     working: false
-    as-of: 2023-11-04
+    asOf: 2023-11-04

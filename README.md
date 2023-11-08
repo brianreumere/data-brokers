@@ -7,14 +7,14 @@ A repo of data brokers to help with opt outs. Each data broker has a YAML file i
 A full schema for the YAML files is below. All fields other than the top-level key, `names`, and `url` are optional and should be treated as unknown if they are absent. See [Opt-out process types](#opt-out-process-types) for valid values for the `process` field.
 
 ```yaml
-some-site:
+someSite:
   names:
     - Some Site
     - SomeSite.com
   url: https://example.com
-  removal-url: https://example.com/remove-me
+  removalUrl: https://example.com/remove-me
   process: search-for-removal
-  required-verification:
+  requiredVerification:
     - email
     - sms
     - phone
@@ -23,13 +23,14 @@ some-site:
     1. First do this.
     2. Then do this.
     3. Now you're done!
-  help-links:
+  helpLinks:
     - https://example.net/help-for-opting-out-of-some-site
   status:
     working: yes
-    as-of: 2023-10-01
+    asOf: 2023-10-01
   notes:
-    2023-10-01: These are some notes about this opt out experience.
+    - note: These are some notes about this opt out experience.
+      date: 2023-10-01
 ```
 
 The special `joins.yml` file in the data directory keeps track of relationships between data brokers. The lists of `similar` brokers are distinct sites with their own opt out processes, but there may be some underlying relationship between them (for example, their sites function almost identically, just with different styling).
