@@ -4,7 +4,7 @@ beenVerified:
     - Been Verified
   url: https://www.beenverified.com/
   removalUrl: https://www.beenverified.com/app/optout/search
-  process: search-for-removal
+  process: opt-out-search
   requiredVerification:
     - email
   helpLinks:

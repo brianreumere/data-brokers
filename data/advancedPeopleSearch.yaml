@@ -4,6 +4,6 @@ advancedPeopleSearch:
     - Advanced-People-Search.com
   url: https://www.advanced-people-search.com/
   removalUrl: https://www.advanced-people-search.com/static/view/optout/
-  process: search-then-opt-out
+  process: search-first
   helpLinks:
     - https://wiki.onerep.com/post/advanced-people-search.com

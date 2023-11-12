@@ -4,7 +4,7 @@ advancedBackgroundChecks:
     - AdvancedBackgroundChecks
   url: https://www.advancedbackgroundchecks.com/
   removalUrl: https://www.advancedbackgroundchecks.com/removal
-  process: search-then-opt-out
+  process: search-first
   requiredVerification:
     - email
   helpLinks:

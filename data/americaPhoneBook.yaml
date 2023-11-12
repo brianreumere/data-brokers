@@ -4,4 +4,4 @@ americaPhoneBook:
     - AmericaPhoneBook.com
   url: https://www.americaphonebook.com/
   removalUrl: https://www.americaphonebook.com/contact.php
-  process: search-then-opt-out
+  process: search-first

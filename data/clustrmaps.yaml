@@ -4,6 +4,6 @@ clustrmaps:
     - Clustr Maps
   url: https://clustrmaps.com/
   removalUrl: https://clustrmaps.com/bl/opt-out
-  process: search-then-opt-out
+  process: search-first
   helpLinks:
     - https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/

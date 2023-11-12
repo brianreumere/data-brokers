@@ -65,6 +65,6 @@ There are various processes that data brokers use to allow you to opt out. For e
 
 | Process | Description |
 | ------- | ----------- |
-| `search-for-removal` | Use the removal search directly to see if there are results to remove. |
-| `search-then-opt-out` | Search to see if data is available first and then use the opt out URL for removal. |
+| `opt-out-search` | Use the special removal/opt-out search directly to see if there are results to remove. |
+| `search-first` | Search to see if data is available first and then use the opt out URL for removal. |
 | `control` | Search for a profile that matches your data and then request to "control" it. |
