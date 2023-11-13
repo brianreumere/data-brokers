@@ -26,10 +26,12 @@ someSite:
   helpLinks:
     - https://example.net/help-for-opting-out-of-some-site
   status:
-    working: yes
+    working: false
     asOf: 2023-10-01
+    workaround: |
+      Email someone@example.com indicating that the opt out is broken. Include...
   notes:
-    - note: These are some notes about this opt out experience.
+    - note: These are some notes about the opt out experience.
       date: 2023-10-01
 ```
 

@@ -7,11 +7,11 @@ councilon:
     - email
   helpLinks:
     - https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
-  help: |
-    Control form is broken. Advises to email control@councilon.com. Make sure to indicate in email that the opt out form is not working.
   status:
     working: false
     asOf: 2023-11-04
+    workaround: |
+      The control form is broken and advises you to email control@councilon.com. Make sure to indicate in the email that the opt out form is broken.
   notes:
     - note: No reply to removal request email
       date: 2023-11-04
