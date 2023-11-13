@@ -8,7 +8,8 @@ advancedBackgroundChecks:
   requiredVerification:
     - email
   helpLinks:
-    - https://joindeleteme.com/blog/how-to-remove-yourself-from-advancedbackgroundchecks/
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-advancedbackgroundchecks/
   status:
     working: true
     asOf: 2023-11-04

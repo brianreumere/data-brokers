@@ -8,7 +8,8 @@ beenVerified:
   requiredVerification:
     - email
   helpLinks:
-    - https://joindeleteme.com/blog/how-to-remove-yourself-from-beenverified/
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-beenverified/
   status:
     working: false
     asOf: 2023-11-04

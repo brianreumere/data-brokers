@@ -6,12 +6,13 @@ councilon:
   requiredVerification:
     - email
   helpLinks:
-    - https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
+    - site: Optery
+      url: https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
   status:
     working: false
     asOf: 2023-11-04
     workaround: |
-      The control form is broken and advises you to email control@councilon.com. Make sure to indicate in the email that the opt out form is broken.
+      The control form advises you to email <code>control@councilon.com</code>. Make sure to indicate in the email that the opt out form is broken.
   notes:
     - note: No reply to removal request email
       date: 2023-11-04

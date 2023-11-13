@@ -6,4 +6,5 @@ clustrmaps:
   removalUrl: https://clustrmaps.com/bl/opt-out
   process: search-first
   helpLinks:
-    - https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
+    - site: Optery
+      url: https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
