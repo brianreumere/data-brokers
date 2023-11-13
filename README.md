@@ -1,10 +1,10 @@
-# Data Brokers
+# Data brokers
 
 A repo of data brokers to help with opt outs. Each data broker has a YAML file in the `data/` directory.
 
 ## Schema
 
-A full schema for the YAML files is below. All fields other than the top-level key, `names`, and `url` are optional and should be treated as unknown if they are absent. See [Opt-out process types](#opt-out-process-types) for valid values for the `process` field.
+A full schema for the YAML files is below. All keys other than the top-level key, `names`, and `url` are optional and should be treated as unknown if they are absent. Generally if keys are included they should also have **all** of their subkeys. See [Opt-out process types](#opt-out-process-types) for valid values for the `process` field.
 
 ```yaml
 someSite:
@@ -24,20 +24,23 @@ someSite:
     2. Then do this.
     3. Now you're done!
   helpLinks:
-    - https://example.net/help-for-opting-out-of-some-site
+    - site: Example
+      url: https://example.net/help-for-opting-out-of-some-site
   status:
     working: false
     asOf: 2023-10-01
     workaround: |
-      Email someone@example.com indicating that the opt out is broken. Include...
+      Email <code>someone@example.com</code> indicating that the opt out is broken. Include the profile URL in the email.
   notes:
     - note: These are some notes about the opt out experience.
       date: 2023-10-01
 ```
 
-The special `joins.yml` file in the data directory keeps track of relationships between data brokers. The lists of `similar` brokers are distinct sites with their own opt out processes, but there may be some underlying relationship between them (for example, their sites function almost identically, just with different styling).
+## Fronts and similar sites
 
-## Fronts vs. 
+"Fronts" are sites that use other data brokers' data or APIs on their backend, and do not have their own opt out process. These are included in the `joins/fronts.yml` file. Top-level keys are the backend sites that actually host the data and opt out processes. The lists of sites under the top-level keys are the fronts.
+
+Similar sites are data brokers that look and function in suspiciously similiar ways. The styling of their sites may be slightly different but otherwise have identical or very similar functionality. For example, [Optery says Councilon "falls under the umbrella of Radaris"](https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/) (I haven't been able to confirm how). They maintain separate opt out processes, but their sites function nearly identically.
 
 ## Services
 
