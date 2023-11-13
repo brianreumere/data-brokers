@@ -1,0 +1,11 @@
+fastBackgroundCheck:
+  names:
+    - FastBackgroundCheck
+  url: https:://www.fastbackgroundcheck.com/
+  removalUrl: https://www.fastbackgroundcheck.com/opt-out
+  process: opt-out-search
+  requiredVerification:
+    - email
+  status:
+    working: true
+    asOf: 2023-11-01

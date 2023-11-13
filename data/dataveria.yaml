@@ -1,0 +1,18 @@
+dataveria:
+  names:
+    - Dataveria
+  url: https://dataveria.com/
+  process: control
+  requiredVerification:
+    - email
+  helpLinks:
+    - site: OneRep
+      url: https://wiki.onerep.com/post/dataveria.com
+  status:
+    working: false
+    asOf: 2023-11-04
+    workaround: |
+      The control form advises you to email `customer@dataveria.com`. Make sure to indicate in the email that the opt out form is broken.
+  notes:
+    - note: No reply to removal request.
+      date: 2023-11-01

@@ -1,0 +1,6 @@
+greyPages:
+  names:
+    - GreyPages
+  url: https://www.grey-pages.com/
+  removalUrl: https://www.grey-pages.com/removal
+  process: search-first
