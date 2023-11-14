@@ -1,6 +1,0 @@
-usaPeopleSearch:
-  names:
-    - USA People Search
-  url: https://www.usa-people-search.com/
-  removalUrl: https://www.usa-people-search.com/manage/
-  process: opt-out-search
