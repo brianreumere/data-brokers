@@ -4,8 +4,6 @@ backgroundCheckRun:
     - BackgroundCheck.Run
   url: https://backgroundcheck.run/
   process: control
-  requiredVerification:
-    - email
   helpLinks:
     - site: DeleteMe
       url: https://joindeleteme.com/blog/how-to-remove-yourself-from-background-check-run/

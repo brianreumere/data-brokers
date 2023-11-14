@@ -3,8 +3,6 @@ dataveria:
     - Dataveria
   url: https://dataveria.com/
   process: control
-  requiredVerification:
-    - email
   helpLinks:
     - site: OneRep
       url: https://wiki.onerep.com/post/dataveria.com

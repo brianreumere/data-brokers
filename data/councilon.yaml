@@ -3,8 +3,6 @@ councilon:
     - Councilon
   url: https://councilon.com/
   process: control
-  requiredVerification:
-    - email
   helpLinks:
     - site: Optery
       url: https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
