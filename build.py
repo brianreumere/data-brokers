@@ -33,9 +33,9 @@ for key, data_broker in data_brokers.items():
     print(data_broker)
     name = data_broker["names"][0]
     url = data_broker["url"]
-    opt_out_url = data_broker.get("removal-url", None)
+    opt_out_url = data_broker.get("removalUrl", None)
     process = data_broker.get("process", None)
-    help_links = "<br />".join(data_broker.get("help-links", []))
+    help_links = "<br />".join(data_broker.get("helpLinks", []))
     if "status" in data_broker:
         status = data_broker["status"].get("working", None)
     else:
