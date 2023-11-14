@@ -1,0 +1,9 @@
+usaPublicDataSearch:
+  names:
+    - USA Public Data Search
+    - USA Data Search
+    - USA OpenData
+    - USA-Official
+  url: https://usa-official.com/
+  removalUrl: https://usa-official.com/remove.php
+  process: search-first

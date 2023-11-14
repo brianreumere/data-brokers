@@ -1,0 +1,7 @@
+usPhoneBook:
+  names:
+    - USPhoneBook
+    - US Phone Book
+  url: https://www.usphonebook.com/
+  removalUrl: https://www.usphonebook.com/opt-out
+  process: opt-out-search
