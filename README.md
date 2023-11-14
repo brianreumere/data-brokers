@@ -14,15 +14,6 @@ someSite:
   url: https://example.com
   removalUrl: https://example.com/remove-me
   process: search-for-removal
-  requiredVerification:
-    - email
-    - sms
-    - phone
-  help: |
-    These are some helpful notes about how to opt out of this site.
-    1. First do this.
-    2. Then do this.
-    3. Now you're done!
   helpLinks:
     - site: Example
       url: https://example.net/help-for-opting-out-of-some-site
@@ -30,7 +21,7 @@ someSite:
     working: false
     asOf: 2023-10-01
     workaround: |
-      Email <code>someone@example.com</code> indicating that the opt out is broken. Include the profile URL in the email.
+      Email `someone@example.com` indicating that the opt out is broken. Include the profile URL in the email.
   notes:
     - note: These are some notes about the opt out experience.
       date: 2023-10-01

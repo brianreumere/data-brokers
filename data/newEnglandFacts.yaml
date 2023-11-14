@@ -1,0 +1,13 @@
+newEnglandFacts:
+  names:
+    - New England Facts
+    - NewEnglandFacts
+  url: https://newenglandfacts.com/
+  process: control
+  helpLinks:
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-new-england-facts/
+  status:
+    working: false
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `csr@newenglandfacts.com`. Make sure to indicate in the email that the opt-out form is broken.

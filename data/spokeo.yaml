@@ -1,0 +1,9 @@
+spokeo:
+  names:
+    - Spokeo
+  url: https://www.spokeo.com/
+  removalUrl: https://www.spokeo.com/optout
+  process: search-first
+  helpLinks:
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-spokeo/

@@ -1,0 +1,10 @@
+inforver:
+  names:
+    - Inforver
+  url: https://inforver.com/
+  removalUrl: https://inforver.com/ng/control/privacy
+  process: 
+  status:
+   working: false
+   asOf: 2023-11-01
+   workaround: The control form advises you to email `customerservices@inforver.com`. Make sure to indicate in the email that the opt-out form is broken.

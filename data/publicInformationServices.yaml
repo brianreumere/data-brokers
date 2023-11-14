@@ -1,0 +1,13 @@
+publicInformationServices:
+  names:
+    - Public Information Services
+    - Public Info Services
+  url: https://www.publicinfoservices.com/
+  removalUrl: https://www.publicinfoservices.com/help-center/remove-me-from-website
+  process: opt-out-search
+  helpLinks:
+    - site: OneRep
+      url: https://wiki.onerep.com/post/publicinfoservices.com
+  status:
+    working: true
+    asOf: 2023-11-01

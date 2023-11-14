@@ -1,0 +1,6 @@
+peopleFinders:
+  names:
+    - PeopleFinders
+  url: https://www.peoplefinders.com/
+  removalUrl: https://www.peoplefinders.com/opt-out
+  process: search-first

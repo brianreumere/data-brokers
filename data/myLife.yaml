@@ -1,0 +1,18 @@
+myLife:
+  names:
+    - MyLife
+    - MyLife.com
+  url: https://www.mylife.com/
+  removalUrl: https://www.mylife.com/ccpa/index.pubview
+  process: search-first
+  helpLinks:
+    - site: Optery
+      url: https://www.optery.com/mylife-how-to-opt-out-and-remove-yourself-from-mylife-step-by-step-instructions/
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-mylife/
+  status:
+    working: true
+    asOf: 2023-11-01
+  notes:
+    - note: I've had the most success with the email method. Email `privacy@mylife.com` and indicate that you are a victim of stalking and/or harassment. Include the profile URL in the email. The help links have some additional guidelines that might be useful too.
+      date: 2023-11-01

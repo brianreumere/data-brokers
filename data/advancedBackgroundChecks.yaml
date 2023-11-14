@@ -5,11 +5,9 @@ advancedBackgroundChecks:
   url: https://www.advancedbackgroundchecks.com/
   removalUrl: https://www.advancedbackgroundchecks.com/removal
   process: search-first
-  requiredVerification:
-    - email
   helpLinks:
     - site: DeleteMe
       url: https://joindeleteme.com/blog/how-to-remove-yourself-from-advancedbackgroundchecks/
   status:
     working: true
-    asOf: 2023-11-04
+    asOf: 2023-11-01

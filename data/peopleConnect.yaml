@@ -1,0 +1,16 @@
+peopleConnect:
+  names:
+    - PeopleConnect
+    - People Connect
+  url: https://peopleconnect.us/
+  removalUrl: https://suppression.peopleconnect.us/login
+  process: opt-out-search
+  helpLinks:
+    - site: Optery
+      url: https://www.optery.com/intelius-how-to-opt-out-and-remove-yourself-from-intelius-step-by-step-instructions/
+  status:
+    working: true
+    asOf: 2023-11-01
+  notes:
+    - note: Instant Checkmate, Intelius, TruthFinder, and US Search are all direct fronts for PeopleConnect (as they brag about on their website). Additional sites are fronts for Intelius. They all use the same opt out process via PeopleConnect. The opt out process requires verification by phone or SMS.
+      date: 2023-11-01

@@ -1,0 +1,9 @@
+nuwber:
+  names:
+    - Nuwber
+  url: https://nuwber.com/
+  removalUrl: https://nuwber.com/removal/link
+  process: search-first
+  status:
+    working: true
+    asOf: 2023-11-01

@@ -1,0 +1,6 @@
+truePeopleSearch:
+  names:
+    - TruePeopleSearch
+  url: https://www.truepeoplesearch.com/
+  removalUrl: https://www.truepeoplesearch.com/removal
+  process: opt-out-search

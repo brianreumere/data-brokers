@@ -1,0 +1,11 @@
+veriforia:
+  names:
+    - Veriforia
+  url: https://veriforia.com/
+  process: control
+  requiredVerification:
+    - email
+  status:
+    working: false
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `support@veriforia.com`. Make sure to indicate in the email that the opt-out form is broken.

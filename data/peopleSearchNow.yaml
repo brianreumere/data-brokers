@@ -1,0 +1,10 @@
+peopleSearchNow:
+  names:
+    - People Search Now
+    - PeopleSearchNow
+  url: https://www.peoplesearchnow.com/
+  removalUrl: https://www.peoplesearchnow.com/opt-out
+  process: opt-out-search
+  helpLinks:
+    - site: Optery
+      url: https://www.optery.com/peoplesearchnow-how-to-opt-out-of-peoplesearchnow-step-by-step-instructions/

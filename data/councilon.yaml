@@ -10,9 +10,8 @@ councilon:
       url: https://www.optery.com/councilon-how-to-remove-councilon-step-by-step-instructions/
   status:
     working: false
-    asOf: 2023-11-04
-    workaround: |
-      The control form advises you to email `control@councilon.com`. Make sure to indicate in the email that the opt out form is broken.
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `control@councilon.com`. Make sure to indicate in the email that the opt-out form is broken.
   notes:
     - note: No reply to removal request.
       date: 2023-11-01

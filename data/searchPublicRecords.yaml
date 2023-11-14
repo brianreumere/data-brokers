@@ -1,0 +1,6 @@
+searchPublicRecords:
+  names:
+    - Search Public Records
+  url: https://www.searchpublicrecords.com/
+  removalUrl: https://www.searchpublicrecords.com/help-center/remove-me-from-website
+  process: opt-out-search

@@ -1,0 +1,9 @@
+revealName:
+  names:
+    - RevealName
+  url: https://www.revealname.com/
+  removalUrl: https://www.revealname.com/opt_out
+  process: search-first
+  helpLinks:
+    - site: OneRep
+      url: https://wiki.onerep.com/post/revealname.com

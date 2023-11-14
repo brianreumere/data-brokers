@@ -13,4 +13,4 @@ backgroundCheckRun:
     Control form is broken. Advises to email ccpa@backgroundcheck.run instead. Make sure to indicate in email that the opt out form is not working.
   status:
     working: false
-    asOf: 2023-11-04
+    asOf: 2023-11-01

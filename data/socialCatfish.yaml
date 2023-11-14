@@ -1,0 +1,12 @@
+socialCatfish:
+  names:
+    - Social Catfish
+  url: https://socialcatfish.com/
+  removalUrl: https://socialcatfish.com/opt-out/
+  process: search-first
+  helpLinks:
+    - site: Optery
+      url: https://www.optery.com/socialcatfish-how-to-opt-out-of-socialcatfish-step-by-step-instructions/
+  notes:
+    - note: Social Catfish is listed as a [dishonorable data broker](https://help.optery.com/en/article/coverage-limitations-for-dishonorable-data-brokers-like-peekyou-radaris-persopo-blockshopper-and-others-13ykn8r/) by Optery.
+      date: 2023-11-01

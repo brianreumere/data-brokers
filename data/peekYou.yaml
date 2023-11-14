@@ -1,0 +1,11 @@
+peekYou:
+  names:
+    - PeekYou
+  url: https://www.peekyou.com/
+  process: control
+  helpLinks:
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-peekyou/
+  notes:
+    - note: Be careful of spam/third-party links in PeekYou search results! They return a lot of results that aren't actually owned or hosted by them.
+      date: 2023-11-01

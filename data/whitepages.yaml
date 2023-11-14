@@ -1,0 +1,15 @@
+whitepages:
+  names:
+    - Whitepages
+  url: https://www.whitepages.com/
+  removalUrl: https://www.whitepages.com/suppression-requests
+  process: search-first
+  helpLinks:
+    - site: DeleteMe
+      url: https://joindeleteme.com/help/kb/how-to-remove-yourself-from-whitepages-premium/
+  status:
+    working: true
+    asOf: 2023-11-01
+  notes:
+    - note: Opting out requires confirmation via a phone call.
+      date: 2023-11-01

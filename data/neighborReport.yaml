@@ -1,0 +1,11 @@
+neighborReport:
+  names:
+    - Neighbor.Report
+    - Neighbor Report
+    - NR
+  url: https://neighbor.report/
+  removalUrl: https://neighbor.report/remove
+  process: search-first
+  helpLinks:
+    - site: DeleteMe
+      url: https://joindeleteme.com/blog/how-to-remove-yourself-from-neighbor-report/

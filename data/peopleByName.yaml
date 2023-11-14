@@ -1,0 +1,6 @@
+peopleByName:
+  names:
+    - PeopleByName
+  url: http://www.peoplebyname.com/
+  removalUrl: http://www.peoplebyname.com/remove.php
+  process: search-first

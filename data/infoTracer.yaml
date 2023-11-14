@@ -1,0 +1,14 @@
+infoTracer:
+  names:
+    - InfoTracer
+    - Info Tracer
+    - InfoPay
+  url: https://infotracer.com/
+  removalUrl: https://infotracer.com/optout/
+  process: opt-out-search
+  helpLinks:
+    - site: Optery
+      url: https://www.optery.com/infotracer-how-to-opt-out-of-infotracer-step-by-step-instructions/
+  status:
+    working: true
+    asOf: 2023-11-01

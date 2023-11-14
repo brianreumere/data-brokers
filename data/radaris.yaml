@@ -1,0 +1,13 @@
+radaris:
+  names:
+    - Radaris
+  url: https://radaris.com/
+  process: control
+  status:
+    working: false
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `removals@radaris.com`. However, Radaris customer service claims, "you will need to identify the specific personal information, and provide proof of identity along with evidence of your current state's residency status." Treat this on a case-by-case basis, and consider only following through with their absurd removal process if they are listing extremely sensitive info about you.
+  notes:
+    - note: |
+        Optery lists Radaris as a [dishonorable data broker](https://help.optery.com/en/article/coverage-limitations-for-dishonorable-data-brokers-like-peekyou-radaris-persopo-blockshopper-and-others-13ykn8r/).
+      date: 2023-11-01

@@ -1,0 +1,14 @@
+peopleBackgroundCheck:
+  names:
+    - People Background Check
+    - People-Background-Check
+    - PeopleBackgroundCheck
+  url: https://people-background-check.com/
+  process: control
+  status:
+    working: false
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `unlist-request@people-background-check.com`. Make sure to indicate in the email that the opt-out form is broken.
+  notes:
+    - note: No reply to removal request.
+      date: 2023-11-01

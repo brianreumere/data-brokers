@@ -1,0 +1,9 @@
+verecor:
+  names:
+    - Verecor
+  url: https://verecor.com/
+  process: control
+  status:
+    working: false
+    asOf: 2023-11-01
+    workaround: The control form advises you to email `assist@verecor.com`. Make sure to indicate in the email that the opt-out form is broken.

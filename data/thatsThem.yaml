@@ -1,0 +1,13 @@
+thatsThem:
+  names:
+    - ThatsThem
+    - That'sThem
+  url: https://thatsthem.com/
+  removalUrl: https://thatsthem.com/optout
+  process: search-first
+  status:
+    working: true
+    asOf: 2023-11-01
+  notes:
+    - note: Opt-out form did not work in Firefox but did work in Safari.
+      date: 2023-11-01
