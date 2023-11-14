@@ -10,17 +10,15 @@ peopleConnect:
   - addresses_com
   - anyWho
   - easyBackgroundChecks
-  - emailFinder
   - instantCheckmate
   - intelius
   - people_yellowpages_com
   - publicRecords
   - truthFinder
-  - USSearch
+  - usSearch
   - zabaSearch
 peopleFinders:
   - privateEye
   - publicRecordsNow
 whitePages:
-  - 411.com
   - dexKnows
