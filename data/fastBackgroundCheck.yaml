@@ -1,7 +1,7 @@
 fastBackgroundCheck:
   names:
     - FastBackgroundCheck
-  url: https:://www.fastbackgroundcheck.com/
+  url: https://www.fastbackgroundcheck.com/
   removalUrl: https://www.fastbackgroundcheck.com/opt-out
   process: opt-out-search
   status:

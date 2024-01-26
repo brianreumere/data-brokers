@@ -5,7 +5,7 @@ pub360:
   process: control
   status:
     working: false
-    asOf: 2023-11-01
+    asOf: 2024-01-25
     workaround: The control form advises you to email `removals@pub360.com`. Make sure to indicate in the email that the opt-out form is broken.
   notes:
     - note: No reply to removal request.

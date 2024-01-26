@@ -7,3 +7,6 @@ usaPublicDataSearch:
   url: https://usa-official.com/
   removalUrl: https://usa-official.com/remove.php
   process: search-first
+  notes:
+    - note: Appears to be offline.
+      date: 2024-01-25

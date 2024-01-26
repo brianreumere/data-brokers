@@ -1,0 +1,13 @@
+personTrust:
+  names:
+    - PersonTrust
+  url: https://persontrust.com/
+  removalUrl: https://persontrust.com/ng/control/privacy
+  process: 
+  status:
+   working: false
+   asOf: 2024-01-25
+   workaround: The control form advises you to email `removal@persontrust.com`. Make sure to indicate in the email that the opt-out form is broken.
+  notes:
+    - note: Formerly known as Inforver. Site now redirects to PersonTrust.
+      date: 2024-01-25

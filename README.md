@@ -1,10 +1,10 @@
 # Data brokers
 
-A repo of data brokers to help with opt outs. Each data broker has a YAML file in the `data/` directory.
+A repo of data brokers to help with opt outs. Each data broker has a YAML file in the `data` directory.
 
 ## Schema
 
-A full schema for the YAML files is below. All keys other than the top-level key, `names`, and `url` are optional and should be treated as unknown if they are absent. Generally if keys are included they should also have **all** of their subkeys. See [Opt-out process types](#opt-out-process-types) for valid values for the `process` field.
+A full schema for the YAML files is below. The top-level key, `names`, and `url` are required. All other keys are optional and should be treated as unknown if they are absent. Generally if keys are included they should also have **all** of their subkeys. See [Opt-out process types](#opt-out-process-types) for valid values for the `process` field.
 
 ```yaml
 someSite:
@@ -23,7 +23,7 @@ someSite:
     workaround: |
       Email `someone@example.com` indicating that the opt out is broken. Include the profile URL in the email.
   notes:
-    - note: These are some notes about the opt out experience.
+    - note: These are some notes about the opt out experience. You can use **Markdown**.
       date: 2023-10-01
 ```
 

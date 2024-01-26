@@ -3,8 +3,11 @@ advancedPeopleSearch:
     - Advanced People Search
     - Advanced-People-Search.com
   url: https://www.advanced-people-search.com/
-  removalUrl: https://www.advanced-people-search.com/static/view/optout/
+  removalUrl: https://www.advanced-people-search.com/static/view/contact/
   process: search-first
   helpLinks:
     - site: OneRep
       url: https://wiki.onerep.com/post/advanced-people-search.com
+  notes:
+    - note: Make sure to select "OPT ME OUT" on the contact form and then opt out; the main opt out form doesn't work.
+      date: 2024-01-25

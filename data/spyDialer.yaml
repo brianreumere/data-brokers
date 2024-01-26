@@ -3,4 +3,4 @@ spyDialer:
     - Spy Dialer
   url: https://spydialer.com/
   removalUrl: https://spydialer.com/Consumers/
-  process: opt-out-search
+  process: search-first

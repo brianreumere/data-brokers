@@ -5,7 +5,7 @@ radaris:
   process: control
   status:
     working: false
-    asOf: 2023-11-01
+    asOf: 2024-01-25
     workaround: The control form advises you to email `removals@radaris.com`. However, Radaris customer service claims, "you will need to identify the specific personal information, and provide proof of identity along with evidence of your current state's residency status." Treat this on a case-by-case basis, and consider only following through with their absurd removal process if they are listing extremely sensitive info about you.
   notes:
     - note: |
