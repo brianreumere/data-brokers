@@ -8,6 +8,9 @@ advancedPeopleSearch:
   helpLinks:
     - site: OneRep
       url: https://wiki.onerep.com/post/advanced-people-search.com
+  status:
+    working: true
+    asOf: 2024-01-25
   notes:
     - note: Make sure to select "OPT ME OUT" on the contact form and then opt out; the main opt out form doesn't work.
       date: 2024-01-25

@@ -3,7 +3,7 @@ personTrust:
     - PersonTrust
   url: https://persontrust.com/
   removalUrl: https://persontrust.com/ng/control/privacy
-  process: 
+  process: control
   status:
    working: false
    asOf: 2024-01-25
